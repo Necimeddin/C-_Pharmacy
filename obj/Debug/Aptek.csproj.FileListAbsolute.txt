@@ -1,0 +1,8 @@
+C:\C# tasks\Lesson2\Aptek\bin\Debug\Aptek.exe.config
+C:\C# tasks\Lesson2\Aptek\bin\Debug\Aptek.exe
+C:\C# tasks\Lesson2\Aptek\bin\Debug\Aptek.pdb
+C:\C# tasks\Lesson2\Aptek\obj\Debug\Aptek.csproj.AssemblyReference.cache
+C:\C# tasks\Lesson2\Aptek\obj\Debug\Aptek.csproj.SuggestedBindingRedirects.cache
+C:\C# tasks\Lesson2\Aptek\obj\Debug\Aptek.csproj.CoreCompileInputs.cache
+C:\C# tasks\Lesson2\Aptek\obj\Debug\Aptek.exe
+C:\C# tasks\Lesson2\Aptek\obj\Debug\Aptek.pdb
